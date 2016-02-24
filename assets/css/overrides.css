@@ -1,0 +1,28 @@
+.box p, .box ul {
+        text-align: justify;
+    }
+
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+button,
+.button {
+    background-color: #e15f1b;
+}
+
+input[type="button"]:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+button:hover,
+.button:hover {
+            background-color: #e17b2b;
+            color: #fff !important;
+        }
+
+.icon.featured {
+            color: #e15f1b;
+        }
+
+a:hover {
+            color: #e17b2b !important;
+        }
